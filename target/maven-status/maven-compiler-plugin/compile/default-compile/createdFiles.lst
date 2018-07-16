@@ -1,0 +1,8 @@
+com\dong\service\impl\UserServiceImpl.class
+com\dong\mapper\UserMapper.class
+com\dong\task\Task.class
+com\dong\Application.class
+com\dong\controller\UserController.class
+com\dong\entity\User.class
+com\dong\service\UserService.class
+com\dong\mapper\UserMapper$UserDaoProvider.class
